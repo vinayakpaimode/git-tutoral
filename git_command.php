@@ -71,6 +71,38 @@ git push -u origin master
 
 
 
+ step 
+1)git --version
+
+2)git status
+
+3)git init
+
+4)$ git add .
+
+5)$ git commit -m "version 1 commnent"
+
+6) git config --global user.name "vinayak paimode"
+
+7) git config --global user.email "vinayakpaimode61382gmail.com"
+
+8) git commit -m "version 1 commnent"
+
+9) git log
+
+10) git status
+
+11) git push -u origin master
+
+12) git pull origin master
+
+
+
+
+
+
+
+
 
 
 
