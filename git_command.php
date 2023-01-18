@@ -27,3 +27,8 @@ git config --global user.email "vinayakpaimode61382gmail.com"
 
 //for commit to git
 $ git commit -m "version 1 commnent"
+
+//for checking log
+
+git log
+
