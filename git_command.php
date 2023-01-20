@@ -96,6 +96,16 @@ git push -u origin master
 
 12) git pull origin master
 
+13)git diff git_command.php           //for get difference between previous and new one
+
+14)git diff --staged git_command.php
+
+15)git reset git_command.php          
+
+15) git checkout git_command.php`
+
+$ git checkout .
+
 
 
 
@@ -623,5 +633,5 @@ $
 
 
 
-true vinayak
+false vinayak
  
